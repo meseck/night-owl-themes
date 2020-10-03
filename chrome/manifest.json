@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "name": "Night Owl Theme (VSCode)",
+  "theme": {
+    "colors": {
+      "bookmark_text": [
+        214,
+        222,
+        235
+      ],
+      "frame": [
+        1,
+        22,
+        39
+      ],
+      "ntp_background": [
+        1,
+        14,
+        26 
+      ],
+      "ntp_text": [
+        214,
+        222,
+        235
+      ],
+      "tab_background_text": [
+        126,
+        159,
+        198
+      ],
+      "tab_background_text_inactive": [
+        126,
+        159,
+        198
+      ],
+      "tab_background_text_incognito": [
+        214,
+        222,
+        235
+      ],
+      "tab_background_text_incognito_inactive": [
+        214,
+        222,
+        235
+      ],
+      "tab_text": [
+        214,
+        222,
+        235
+      ],
+      "toolbar": [
+        8,
+        30,
+        47
+      ],
+      "omnibox_text": [
+        214,
+        222,
+        235
+      ],
+      "omnibox_background": [
+        1,
+        22,
+        39
+      ]
+    },
+    "tints": {
+      "buttons": [
+        -1, 
+        0.8,
+        0.7
+      ],
+      "frame_inactive": [
+        -1,
+        -1,
+        -1
+      ],
+      "frame_incognito": [
+        -0.8, 
+        0.7,
+        0.3
+      ],
+      "frame_incognito_inactive": [
+        -0.8, 
+        0.7,
+        0.3
+      ]
+    }
+  }
+}

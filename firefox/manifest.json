@@ -1,0 +1,38 @@
+{
+  "name": "Night Owl Theme (VSCode)",
+  "manifest_version": 2,
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "frame": "rgb(0, 22, 40, 1)",
+      "toolbar": "rgb(0, 22, 40, 1)",
+      "tab_loading": "rgb(228, 190, 137, 1)",
+      "toolbar_top_separator": "rgb(0, 22, 40, 1)",
+      "toolbar_bottom_separator": "rgb(0, 22, 40, 1)",
+      "toolbar_field": "rgb(0, 14, 27)",
+      "toolbar_field_text": "rgba(214, 222, 236, 1)",
+      "toolbar_field_border": "rgb(0, 22, 40, 1)",
+      "toolbar_field_border_focus": "rgba(11, 42, 68, 1)",
+      "sidebar": "rgb(0, 22, 40, 1)",
+      "sidebar_border": "rgb(0, 22, 40, 1)",
+      "sidebar_text": "rgba(127, 164, 195, 1)",
+      "sidebar_highlight": "rgba(11, 42, 68, 1)",
+      "sidebar_highlight_text": "rgba(214, 222, 236, 1)",
+      "tab_background_separator": "rgba(27, 39, 54, 1)",
+      "tab_background_text": "rgba(127, 164, 195, 1)",
+      "tab_selected": "rgba(11, 42, 68, 1)",
+      "tab_line": "rgb(199, 143, 235, 1)",
+      "tab_text": "rgb(214, 222, 236, 1)",
+      "bookmark_text": "rgba(214, 222, 236, 1)",
+      "ntp_background": "rgba(0, 17, 32, 1)",
+      "ntp_text": "rgba(214, 222, 236, 1)",
+      "popup": "rgb(0, 22, 40, 1)",
+      "popup_text": "rgba(214, 222, 236, 1)",
+      "popup_highlight": "rgba(94, 126, 152, 1)",
+      "popup_highlight_text": "rgba(214, 222, 236, 1)",
+      "popup_border": "rgb(0, 22, 40, 1)",
+      "icons": "rgba(127, 164, 195, 1)",
+      "icons_attention": "rgb(199, 143, 235, 1)"
+    }
+  }
+}

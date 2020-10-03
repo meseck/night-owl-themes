@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 6,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#717D99FF",
+        "font" : "System",
+        "color" : "#4E6495FF"
+      },
+      "shortcut" : {
+        "size" : 12,
+        "colorSelected" : "#CBA97BFF",
+        "font" : "System",
+        "color" : "#CBA97BFF"
+      },
+      "backgroundSelected" : "#092845FF",
+      "text" : {
+        "size" : 12,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System",
+        "color" : "#6B88CBFF"
+      },
+      "iconPaddingHorizontal" : 16,
+      "paddingVertical" : 14,
+      "iconSize" : 32
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#10212C00",
+      "spacing" : 10,
+      "text" : {
+        "size" : 21,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "System",
+        "color" : "#FFFFFFFF"
+      },
+      "backgroundSelected" : "#FFFFFF33"
+    },
+    "window" : {
+      "color" : "#071D2EFF",
+      "paddingHorizontal" : 14,
+      "width" : 600,
+      "borderPadding" : 1,
+      "borderColor" : "#576E7F7F",
+      "blur" : 0,
+      "roundness" : 5,
+      "paddingVertical" : 14
+    },
+    "credit" : "Fool's Mate",
+    "separator" : {
+      "color" : "#FEFFFF00",
+      "thickness" : 2
+    },
+    "scrollbar" : {
+      "color" : "#0000000F",
+      "thickness" : 0
+    },
+    "name" : "NightOwl"
+  }
+}

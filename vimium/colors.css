@@ -1,0 +1,134 @@
+.vimiumReset,
+div.vimiumReset,
+span.vimiumReset,
+table.vimiumReset,
+a.vimiumReset,
+a:visited.vimiumReset,
+a:link.vimiumReset,
+a:hover.vimiumReset,
+td.vimiumReset,
+tr.vimiumReset {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+div > .vimiumHintMarker {
+  padding: 2px 3px;
+  background-color: #001627;
+  border: 0;
+  border-radius: 2px;
+  box-shadow: none;
+  background-image: none;
+}
+
+div > .vimiumHintMarker span {
+  font-size: 13px;
+  font-weight: normal;
+  text-shadow: none;
+  color: #ffd125;
+}
+
+div > .vimiumHintMarker > .matchingCharacter {
+  color: #dcbc2a;
+}
+
+#vomnibar {
+  background: #001627;
+  border-radius: 4px;
+  box-shadow: none;
+  border: 1px solid #2c394f;
+}
+
+#vomnibar .vomnibarSearchArea {
+  padding: 10px;
+  background-color: #001627;
+  border-radius: 4px 4px 0 0;
+  border-bottom: none;
+}
+
+#vomnibar input {
+  color: white;
+  background-color: #001627;
+  border: none;
+  box-shadow: none;
+  padding: 0 15px;
+}
+
+#vomnibar ul {
+  background-color: unset;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+
+#vomnibar li {
+  border-bottom: unset;
+}
+
+#vomnibar li .vomnibarSource {
+  color: #ffc66d;
+  margin-right: 0;
+}
+
+#vomnibar li em,
+#vomnibar li .vomnibarTitle {
+  color: white;
+}
+
+#vomnibar li .vomnibarUrl {
+  color: #7c7c91;
+  font-weight: 100;
+  font-size: 0.8rem;
+}
+
+#vomnibar li em .vomnibarMatch,
+#vomnibar li .vomnibarTitle .vomnibarMatch,
+#vomnibar li .vomnibarMatch {
+  color: #80a7f6;
+  font-weight: normal;
+}
+
+div.vimiumHUD {
+  background: #001627;
+  box-shadow: none;
+  border: 1px solid #2c394f;
+}
+
+div.vimiumHUD .vimiumHUDSearchArea {
+  background-color: unset;
+  border-radius: none;
+}
+
+div.vimiumHUD .hud-find {
+  background: unset;
+  border: none;
+}
+
+div.vimiumHUD span {
+  color: white !important;
+  font-family: sans-serif;
+}
+
+#vomnibar li.vomnibarSelected {
+  background-color: #0b2944;
+}
+
+div#vimiumHelpDialogContainer {
+  background-color: #001627;
+  border: 1px solid #2c394f;
+  border-radius: 6px;
+  color: white;
+}
+
+div#vimiumHelpDialog td.vimiumHelpDescription,
+div#vimiumHelpDialog td.vimiumHelpSectionTitle,
+div#vimiumHelpDialog a,
+span#vimiumTitle,
+span#vimiumTitle span,
+span#vimiumTitle * {
+  font-family: sans-serif;
+  color: white !important;
+}
+
+div#vimiumHelpDialog td.vimiumHelpDescription {
+  font-size: 12px;
+}

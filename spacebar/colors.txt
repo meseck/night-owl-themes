@@ -1,0 +1,3 @@
+spacebar -m config background_color     0xff001528
+spacebar -m config foreground_color     0xffcad3e0
+spacebar -m config space_icon_color     0xffecc48d
